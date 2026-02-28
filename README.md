@@ -1,1 +1,1 @@
-Redesenvolvido por <a href="https://www.instagram.com/leowojahn/">Leo Wojahn</a> com base no projeto original de <a href="https://www.youtube.com/watch?v=RacwEvoTz_Y&list=PLDgemkIT111AzoS1rB61sgMJbsEA4pyD2">Fernando Leonid</a>
+Redesenvolvido por <a href="https://www.instagram.com/leowojahn/">Leo Wojahn</a> com base no projeto original de <a href="https://www.youtube.com/watch?v=RacwEvoTz_Y&list=PLDgemkIT111AzoS1rB61sgMJbsEA4pyD2">Fernando Leonid</a>.
