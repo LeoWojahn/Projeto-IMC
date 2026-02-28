@@ -1,1 +1,1 @@
-# Projeto-IMC
+Redesenvolvido por <a href="https://www.instagram.com/leowojahn/">Leo Wojahn</a> com base no projeto original de <a href="https://marcelopereira.dev">Marcelo Pereira</a> no Curso de Html5 e Css3 do canal <a href="https://www.youtube.com/watch?v=RacwEvoTz_Y&list=PLDgemkIT111AzoS1rB61sgMJbsEA4pyD2">Fernando Leonid</a>
